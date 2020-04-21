@@ -1,0 +1,10 @@
+.bookmarkApp {
+    width: 500px;
+    margin: 10px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);
+    padding-top: 5px;
+  }
+  .bookmarkApp h2{
+      text-align: center;
+  }

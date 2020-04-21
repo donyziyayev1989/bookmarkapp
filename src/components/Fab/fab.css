@@ -1,0 +1,10 @@
+.fab{
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 18px;
+    background: #ddd;
+    cursor: pointer;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
